@@ -1,0 +1,25 @@
+.iconsection{
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 180px;
+    height: 500px;
+}
+
+.fa-regular{
+    font-size: 70px;
+    color: rgb(0, 94, 255);
+}
+.fa-solid{
+    font-size: 70px;
+    color: rgb(0, 94, 255);
+}
+
+.iconcard{
+    text-align: center;
+}
+
+.text{
+    font-size: 17px;
+}

@@ -1,0 +1,36 @@
+.second__div{
+    display: flex;
+}
+.third__div{
+    width: 50%;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.div__img {
+    width: 50%;
+    
+}
+.third__div p{
+    font-size: 22px;
+}
+.img__div{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.imgg{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+.h2{
+    display: flex;
+    justify-content: center;
+}
+.img__div p{
+    flex-wrap: wrap;
+}
